@@ -1,0 +1,9 @@
+ipf_pt:0,1
+ipf_eta:-1.5,1.5
+ipf_phi:-1.5,1.5
+ipf_m:0,1
+ipf_e:0,400
+ipf_pfType:-211,211
+ipf_pup:0,1.1
+ipf_ecalE:0,400
+ipf_hcalE:0,400
